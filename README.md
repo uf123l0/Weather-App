@@ -27,8 +27,9 @@ This is a simple and responsive weather application built using HTML, CSS, and J
 
 ![Screenshot (33)](https://github.com/user-attachments/assets/317b5c71-6f27-4502-8ee9-c3cb6f0d35bf)
 
+## 🌐 Live Demo
 
-
+https://uf123l0.github.io/Weather-App/
 
 🧑‍💻 Author
 Umm E Farwa
