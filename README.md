@@ -25,12 +25,10 @@ This is a simple and responsive weather application built using HTML, CSS, and J
 
 ## 📸 Screenshots
 
-> ![Screenshot (33)](https://github.com/user-attachments/assets/bd10114c-f22e-4b36-849f-60127daad7d4)
+![Screenshot (33)](https://github.com/user-attachments/assets/317b5c71-6f27-4502-8ee9-c3cb6f0d35bf)
 
-![Screenshot (34)](https://github.com/user-attachments/assets/0b41b9b4-2757-4642-bd38-815e3f0e3eed)
 
----![Screenshot (35)](https://github.com/user-attachments/assets/0916a045-200b-4c6a-ba64-03d0b204583d)
-
+![Screenshot (34)](https://github.com/user-attachments/assets/5faa3f45-5bcc-41f7-996f-c1e0d41bf248)
 
 🧑‍💻 Author
 Umm E Farwa
