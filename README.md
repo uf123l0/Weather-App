@@ -28,7 +28,7 @@ This is a simple and responsive weather application built using HTML, CSS, and J
 ![Screenshot (33)](https://github.com/user-attachments/assets/317b5c71-6f27-4502-8ee9-c3cb6f0d35bf)
 
 
-![Screenshot (34)](https://github.com/user-attachments/assets/5faa3f45-5bcc-41f7-996f-c1e0d41bf248)
+
 
 🧑‍💻 Author
 Umm E Farwa
